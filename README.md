@@ -4,7 +4,7 @@
 A ideia principal do repositório é oferecer um compilado de notebooks e outros materiais para estudantes interessados em iniciar na área de visão Robótica. Este repositório servirá como um ponto de partida abrangente, proporcionando uma introdução prática e teórica aos conceitos estudados e às técnicas utilizadas.
 
 ---
-##Conteúdo do Repositório:
+## Conteúdo do Repositório:
 
 ---
 
