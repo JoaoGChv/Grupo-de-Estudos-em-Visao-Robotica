@@ -48,5 +48,3 @@ Capítulo 3, Subtópico 3.3 - Szeliski
 Capítulo 3, Subtópico 3.4 - Szeliski
 
 - **Slides**: https://www.canva.com/design/DAGnvp62FQY/_NkHVYFi9c-flElsb7yYJw/view?utm_content=DAGnvp62FQY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h024d6febd9
-
----
