@@ -22,7 +22,7 @@ O repositório é organizado em seções que seguem o cronograma semanal previam
 ### Semana 1: Formação de Imagens
 Capítulo 2 - Szeliski
 
-- 📑 **Slides**: https://www.canva.com/design/DAGi32RfMY0/LkmxJvDaubFLPifrOB48vw/edit?utm_content=DAGi32RfMY0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📑 **Slides**: https://www.canva.com/design/DAGi32RfMY0/vUnwCS2_B-dYyu2I1_Sd0g/view?utm_content=DAGi32RfMY0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h967130f7f4
 
 ### Semana 2: Aula de Formação de Imagens com Prof. Dr. Gustavo Teodoro Laureano
 
@@ -47,6 +47,6 @@ Capítulo 3, Subtópico 3.3 - Szeliski
 ### Semana 9 (19/5): Transformadas de Fourier, Transformadas 2D de Fourier e Aplicações em Processamento de Imagem 
 Capítulo 3, Subtópico 3.4 - Szeliski
 
-- **Slides**: https://www.canva.com/design/DAGnvp62FQY/8-D_WQuVai_L4dkO-Q6gEw/edit?utm_content=DAGnvp62FQY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- **Slides**: https://www.canva.com/design/DAGnvp62FQY/_NkHVYFi9c-flElsb7yYJw/view?utm_content=DAGnvp62FQY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h024d6febd9
 
 ---
