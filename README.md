@@ -11,11 +11,11 @@ As atividades do grupo de estudos têm como base dois livros fundamentais da ár
 
 - Grupo Szeliski
 
-Computer Vision: Algorithms and Applications (2ª Edição), de Richard Szeliski
+*Computer Vision: Algorithms and Applications (2ª Edição), de Richard Szeliski*
 
 - Grupo Hartley
 
-Multiple View Geometry in Computer Vision (2ª Edição), de Richard Hartley e Andrew Zisserman
+*Multiple View Geometry in Computer Vision (2ª Edição), de Richard Hartley e Andrew Zisserman*
 
 O repositório é organizado em seções que seguem o cronograma semanal previamente definido, sendo cada uma dedicada a um aspecto específico dos livros em estudo:
 
