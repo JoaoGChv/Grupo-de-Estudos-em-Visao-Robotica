@@ -1,4 +1,4 @@
-# Grupo-de-Estudos-em-Visão-Robótica
+# Grupo de Estudos em Visão Robótica
 
 #### Este repositório contém a documentação das apresentações semanais do Grupo de Estudos de Visão Robótica da Universidade Federal de Goiás, tendo como orientador o Prof. Dr. Gustavo Teodoro Laureano.
 
