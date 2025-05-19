@@ -19,12 +19,12 @@ As atividades do grupo de estudos têm como base dois livros fundamentais da ár
 
 O repositório é organizado em seções que seguem o cronograma semanal previamente definido, sendo cada uma dedicada a um aspecto específico dos livros em estudo:
 
-### Semana 1: Formação de Imagens
+### Semana 1 (24/3): Formação de Imagens
 Capítulo 2 - Szeliski
 
 - 📑 **Slides**: https://www.canva.com/design/DAGi32RfMY0/vUnwCS2_B-dYyu2I1_Sd0g/view?utm_content=DAGi32RfMY0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h967130f7f4
 
-### Semana 2: Aula de Formação de Imagens com Prof. Dr. Gustavo Teodoro Laureano
+### Semana 2 (31/3): Aula de Formação de Imagens com Prof. Dr. Gustavo Teodoro Laureano
 
 ### Semana 3 (7/4): Introdução do *Multiple View Geometry*
 
